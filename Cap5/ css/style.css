@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap");
+p {
+  color: #0a1441;
+  font-family: "Comfortaa", cursive;
+}
+h1,
+h2 {
+  color: #0a1441;
+  font-family: monospace, sans-serif;
+}
+h1 {
+  border-bottom: 1px solid black;
+  text-align: center;
+  background-color: cadetblue;
+  color: whitesmoke;
+}
+
+p.GreenTea{
+  color: green;
+}
+
+p.Raspberry{
+  color: deepskyblue;
+}
+
+p.Blueberry{
+  color: blueviolet;
+}
+
+p.Cranberry{
+  color: darkred;
+}

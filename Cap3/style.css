@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    background-color: white;
+    
+}
+h1  {
+    font-size: 180%;
+    
+}
+h2{
+    font-size: 150% ;
+}
+
+blockquote{
+    font-style: italic;
+}
+
+h1, h2 {
+    color: #ff8000;
+    border-bottom: thin dotted #ff8000;
+}
