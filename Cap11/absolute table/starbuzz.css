@@ -1,7 +1,7 @@
 body {
   background-color: #b5a789;
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: small;
+  font-size: medium;
   margin: 0px;
 }
 
@@ -77,3 +77,23 @@ div#tableRow {
   display: table-row;
 }
 
+#imgSlogan{
+  float: right; 
+}
+
+#award{
+  position: absolute;
+  top: 30px;
+  left: 45%;
+
+}
+
+#coupon{
+  position: fixed;
+  top: 350px;
+  left: -90px;
+  
+}
+#coupon a{
+  border: none;
+}
